@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**ikanberjalandidarat/ikanberjalandidarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📈 A Data Science, Analytics, AI, ML, and Mathematics enthusiast.
+- 💻 I also enjoy learning to code different things, and solving BC Calculus problems for fun.
+- 🔭 Interested in game development, monetization, new languages (spoken lol), and culinary!
+- 🌱 I like doing things on a whim, one day I am coding in Swift, the next day Python 
+- ⚡ I like cats :)
 
-Here are some ideas to get you started:
+Contact me: 
+<p align="left"> 
+    <a href="https://www.linkedin.com/in/zhafiraelham/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
+  <a href="zhafiraelhamfawnia@gmail.com" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="42" height="42"/ > </a>
+   <a href="https://twitter.com/lucisthetic target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="express" width="37" height="37"/> </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<a href="https://github.com/ikanberjalandidarat">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ikanberjalandidarat&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikanberjalandidarat&theme=buefy&layout=compact" />
+</a>
