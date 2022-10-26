@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-- 📈 A Data Science, Analytics, AI, ML, and Mathematics enthusiast.
-- 💻 I also enjoy learning to code different things, and solving BC Calculus problems for fun.
-- 🔭 Interested in game development, monetization, new languages (spoken lol), and culinary!
-- 🌱 I like doing things on a whim, one day I am coding in Swift, the next day Python 
-- ⚡ I like cats :)
-
+Jujur gatau ah pusing 
 
 <br>
 
