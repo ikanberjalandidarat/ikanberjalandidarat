@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Jujur gatau ah pusing 
+Please do hesitate to contact me.
 
 <br>
 
@@ -13,9 +13,4 @@ Jujur gatau ah pusing
 <br><br>
 
 
-Contact me: 
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/zhafiraelham/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
-  <a href="zhafiraelhamfawnia@gmail.com" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="42" height="42"/ > </a>
-   <a href="https://twitter.com/lucisthetic target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="express" width="37" height="37"/> </a>
-</p>
+
